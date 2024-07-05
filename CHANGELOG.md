@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [4.2.10-24.187] - 2024-07-05
+
+### Changed
+
+- `/instance` API endpoint no longer need to be authenticated
+- Version number now follows `vX.Y.Z-YY.DDD` where `vX.Y.Z` is the current Mastodon version and `YY.DDD` is the ordinal date of release
+
 ## [4.2.10+1.0.0] - 2024-07-05
 
 ### Changed
