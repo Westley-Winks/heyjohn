@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [4.2.10+1.0.0] - 2024-07-05
+
+### Changed
+
+- Change the version number to include my personal fork, heyjohn
+- No longer need to be authenticated to see the `/about` and `/privacy-policy` pages when `LIMITED_FEDERATION_MODE=true`
+
 ## [4.2.10] - 2024-07-04
 
 ### Security
